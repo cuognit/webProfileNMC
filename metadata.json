@@ -1,0 +1,6 @@
+{
+  "name": "Trang cá nhân & Blog",
+  "description": "Một website cá nhân chuyên nghiệp tích hợp blog, dự án, form liên hệ trực tiếp, hệ thống quản trị nội dung bài viết và bình luận Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
